@@ -1,4 +1,4 @@
-# extractivetextsummarizer
+# Extractive Text Summarizer
 A basic extractive text summarizer which uses nltk, heapq and re.
 
 This summarizer can be used to create summaries of the given input based on the word frequencies and the sentence scores.
